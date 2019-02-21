@@ -1,3 +1,4 @@
 this is a git test text!
 this is a line message by adding.
-test.
+test
+.
